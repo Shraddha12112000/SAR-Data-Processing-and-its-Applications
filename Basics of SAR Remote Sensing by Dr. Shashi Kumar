@@ -1,0 +1,70 @@
+Remote sensing which is carried out in Microwave region of electromagnetic spectrum is known as microwave remote sensing technique.
+1mm to 100cm range of electromagnetic spectrum is generally used for spaceborne microwave remote sensing. Microwave region is in 
+between Infrared and Radio waves.
+Microwave bands are divided in K,X,C,S,L,P bands. There will be increase in wavelength of elecromagnetic waves if one will move from
+K band to P band
+
+SAR(SYNTHETIC APERATURE RADAR):-
+SAR is a form of radar that is used to create images of objects, such as Landscapes - these images can be either two or three dimensional 
+representations of object
+SAR remote sensing is an imaging active microwave remote sensing technique which provides higher spatial resolution data.
+         ************************SAR SATELLITES*************************************
+RISAT-1 : April 2012: C-band
+Radarsat 1: 1995: C-band
+Radarsat 2: 2007: C-band(Quad-pol)
+ERS 1: 1991-2000: C-band
+ESR 2: 1995: C-band
+JERS : 1992-98 : L-band
+ENVISAT:2002: C-band
+ALOS :2006:L-band(Quad-pol)
+TerraSAT-X:2007: X-band(Quad-pol)
+TerraSAT-X:2010: X-band(Quad-pol)
+ALOS-2: 2014: L-band(Quad-pol)
+Sentinel-1A: 2014: C-band
+Sentinel-1B: 2016: C-band
+RADARSAT Constellation Mission (RCM) :2019: C-band
+
+**************************************Comparison Of Various SAR bands*********************************************************
+
+
+P-band :
+Frequency: 43.2-438 MHZ
+Wavelength(cm): 68.5-69.4
+Spaceborne SAR Systems : BIOMASS
+Applications: High Penetration, detection of target concealed by foliage or camouflage, buried object,archaeological, estimates of biomass, map forest
+disturbances.
+
+L-band :
+Frequency: 1215-1300 MHZ
+Wavelength(cm): 23.1-24.7
+Spaceborne SAR Systems : SEASAT,JERS-1, ALOS PALSAR,ALOS-2 PALSAR-2,NISAR-L
+Application : Good penetration, land applications-forestry, environmental monitoring,agriculture, geology, hydrology
+
+S-band :
+Frequency: 3.1-3.3 GHZ
+Wavelength(cm): 9.1-9.7
+Spaceborne SAR Systems : ALMAZ-1,HJ-1c,KONDOR-E,NOVASAR-1,NISAR-S
+Application: Ship detection, ice-mapping, oil spill detection,flood mapping, forestry mapping,crop classification
+
+C-band :
+Frequency: 5.25-5.57 GHZ
+Wavelength(cm): 5.4-5.7
+Spaceborne SAR Systems : ERS -1/2,Envisat ASAR, Radarsat-1/2, RCM,RISAT-1/1-A,Sentinel 1A/B
+Application: Sensitive to ocean features, ship detection sea ice serveillance, oil spill monitoring
+
+X-band :
+Frequency: 9.5-9.8 GHZ
+Wavelength(cm): 3.1-3.2
+Spaceborne SAR Systems : TerraSAR-X/TanDEM-X, COSMO-SkyMed,IGS-1B/3B,TecSAR,RISAT-2,PAZ,KOMPSAT-5,SAR-Lupe
+Application: Sensitive to surface roughness, high resolution applications, topographic mapping, flood mapping.
+
+***********************************Indian SAR EARTH Observation Satellites**********************************************
+Sensor                 Operation                     Band
+RISAT-2              April 20 ,2009                 X-band
+RISAT-1              April 26, 20012            C-band Hybrid/Dual
+RISAT-2B             May 22 , 2019                  X-band
+RISAT-2BR1            Dec 11, 2019                  X band
+RISAT -1A            Feb 14, 2022               C-band Hybrid Polarimetry
+  NISAR
+NASA-ISRO SAR        Launch Scheduled             L-band & S-band
+  Mission                in 2023 
